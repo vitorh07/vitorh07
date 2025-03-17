@@ -35,11 +35,6 @@
 
 <h3 align="left">🤝 Connect with me:</h3>
 
-###
-
-<img align="right" height="75" src="https://i.pinimg.com/originals/a3/86/e2/a386e2ec6af7cd15fab3b08aa2ab5272.gif"  />
-
-###
 
 <div align="left">
   <a href="mailto:vitorfogaca0227@gmail.com" target="_blank">
